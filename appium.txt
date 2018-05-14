@@ -1,0 +1,13 @@
+[caps]
+platformName = "Android"
+deviceName = "5.1  WVGA API 23"
+app = "/Users/raissa.costa.brizeno/Documents/testefuncional/app/app-debug.apk"
+appPackage = "com.example.raissacostabrizeno.mdiaestudantes"
+
+
+[appium_lib]
+sauce_username = ""
+sauce_access_key = ""
+
+
+
