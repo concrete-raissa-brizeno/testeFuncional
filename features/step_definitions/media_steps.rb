@@ -17,3 +17,4 @@ end
 Então("o status {string}") do |status|
 	expect(@app.resultado_status).to eq(status)
 end
+
